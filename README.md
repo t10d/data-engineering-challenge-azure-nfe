@@ -2,21 +2,21 @@
 O objetivo desse desafio é avaliar sua capacidade de projetar e implementar um pipeline de dados usando Azure Cloud. O pipeline deve ser capaz de coletar, processar e armazenar dados de diferentes fontes em um data lake.
 
 # Instruções
-Você deve usar o Azure Cloud para criar um pipeline de dados que colete dados de notas fiscais eletrônicas (NFe) de um diretório.
+* Você deve usar o Azure Cloud para criar um pipeline de dados que colete dados de notas fiscais eletrônicas (NFe) de um diretório.
 
-Você deve documentar os campos das notas fiscais. Essa documentação é crucial para o sucesso do projeto.
+* Você deve documentar os campos das notas fiscais. Essa documentação é crucial para o sucesso do projeto.
 
-O pipeline deve incluir etapas de limpeza e transformação de dados, bem como validação de dados para garantir precisão e confiabilidade.
+* O pipeline deve incluir etapas de limpeza e transformação de dados, bem como validação de dados para garantir precisão e confiabilidade.
 	
-A utilização de mensageria para garantir a entrega dos dados de forma segura e rápida, é altamente recomendada pois será utilizada no projeto, porém não obrigatória.
+* A utilização de mensageria para garantir a entrega dos dados de forma segura e rápida, é altamente recomendada pois será utilizada no projeto, porém não obrigatória.
 	
-O uso de Kubernetes e Docker também é opcional, mas será considerado um diferencial se utilizado.
+* O uso de Kubernetes e Docker também é opcional, mas será considerado um diferencial se utilizado.
 
-O pipeline deve ser documentado e testado para garantir a facilidade de manutenção e escalabilidade.
+* O pipeline deve ser documentado e testado para garantir a facilidade de manutenção e escalabilidade.
 
-Você deve entregar o código fonte e a documentação do pipeline, bem como uma demonstração do pipeline em funcionamento.
+* Você deve entregar o código fonte e a documentação do pipeline, bem como uma demonstração do pipeline em funcionamento.
 
-Nota: Não é necessário que você tenha experiência trabalhando com NFe, mas se tiver, é um diferencial.
+**Nota: Não é necessário que você tenha experiência trabalhando com NFe, mas se tiver, é um diferencial.**
 
 
 # Avaliação
